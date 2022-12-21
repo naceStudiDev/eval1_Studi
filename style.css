@@ -1,0 +1,27 @@
+
+body{
+margin:0;
+background: rgb(36, 81, 244);
+
+}
+.entete{
+   
+   background: rgb(76, 187, 227);
+   width: auto;
+   position: relative;
+   height: 100px;
+   
+
+}
+.entete li {
+   margin-top: 25%;
+  display: inline;
+   font-size: 20px;
+   display: inline;
+   margin-left: 12%;
+  /* height: 50px; */
+   border-radius: 50%;
+   background-color: rgb(220, 134, 28);
+}
+
+
