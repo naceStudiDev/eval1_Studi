@@ -23,5 +23,6 @@ background: rgb(36, 81, 244);
    border-radius: 50%;
    background-color: rgb(220, 134, 28);
 }
-
+.presentation  {
+   display: block; }
 
